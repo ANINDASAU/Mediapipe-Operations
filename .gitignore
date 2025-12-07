@@ -1,0 +1,10 @@
+# Ignore virtual environment
+MediapipeEnv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large binaries
+*.pyd
+*.dll
